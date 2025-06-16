@@ -2,7 +2,7 @@ My fork/rewrite of https://github.com/banianitc/ft9201-fingerprint-driver finger
 
 # Focal-systems.Corp FT9201Fingerprint.̚ linux driver
 
-Device id `2808:93a9`.
+Device id `2808:9348`.
 
 Based on [libfprint wiki post](https://gitlab.freedesktop.org/libfprint/wiki/-/wikis/Devices/2808:93a9)
 
