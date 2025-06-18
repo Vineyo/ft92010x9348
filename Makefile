@@ -3,7 +3,7 @@ CC=gcc
 LIBS = -L/usr/lib/x86_64-linux-gnu -lMagickWand-7.Q16HDRI
 PWD:= $(CURDIR)
 CFLAGS = -ansi -pedantic -Wall -Wextra -O3
-incs = -I/usr/include/ImageMagick-7 -I/usr/include/x86_64-linux-gnu/ImageMagick-7
+incs =
 
 all: build ft9201_util fingprint
 
